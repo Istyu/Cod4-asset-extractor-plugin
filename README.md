@@ -1,2 +1,4 @@
 # Cod4-asset-extractor-plugin
-Enable extractor commands without developer mode.
+<p align="center">
+  <img src="CoD4x_Server/ded_console.png?raw=true" />
+</p>
